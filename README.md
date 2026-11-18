@@ -24,6 +24,8 @@ Content/_Game/      All of our game content
 Source/Ironveil/    C++ code
 Art/Source/         Blender and texture source files
 Art/Export/         FBX exports for Unreal
+Data/               Balance data (affixes, item bases, scaling) as CSV for Unreal DataTables
+Tools/              Helper scripts, e.g. the loot simulator
 ```
 
 ## First-time setup

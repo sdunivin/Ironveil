@@ -1,0 +1,279 @@
+Name,AffixType,ModGroup,Tier,MinItemLevel,Stat,ModType,ValueMin,ValueMax,Value2Min,Value2Max,Weight,AllowedTags,DisplayText
+LocalPhysInc_T7,Prefix,LocalPhysInc,7,1,PhysicalDamage,LocalIncreased,15,24,0,0,1000,Item.Weapon.Melee|Item.Weapon.Ranged,{0}% increased Physical Damage
+LocalPhysInc_T6,Prefix,LocalPhysInc,6,10,PhysicalDamage,LocalIncreased,25,39,0,0,900,Item.Weapon.Melee|Item.Weapon.Ranged,{0}% increased Physical Damage
+LocalPhysInc_T5,Prefix,LocalPhysInc,5,22,PhysicalDamage,LocalIncreased,40,59,0,0,750,Item.Weapon.Melee|Item.Weapon.Ranged,{0}% increased Physical Damage
+LocalPhysInc_T4,Prefix,LocalPhysInc,4,35,PhysicalDamage,LocalIncreased,60,79,0,0,600,Item.Weapon.Melee|Item.Weapon.Ranged,{0}% increased Physical Damage
+LocalPhysInc_T3,Prefix,LocalPhysInc,3,50,PhysicalDamage,LocalIncreased,80,99,0,0,450,Item.Weapon.Melee|Item.Weapon.Ranged,{0}% increased Physical Damage
+LocalPhysInc_T2,Prefix,LocalPhysInc,2,68,PhysicalDamage,LocalIncreased,100,129,0,0,300,Item.Weapon.Melee|Item.Weapon.Ranged,{0}% increased Physical Damage
+LocalPhysInc_T1,Prefix,LocalPhysInc,1,84,PhysicalDamage,LocalIncreased,130,159,0,0,180,Item.Weapon.Melee|Item.Weapon.Ranged,{0}% increased Physical Damage
+LocalAddedPhys_T7,Prefix,LocalAddedPhys,7,1,PhysicalDamage,LocalAdded,1,2,3,5,1000,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Physical Damage
+LocalAddedPhys_T6,Prefix,LocalAddedPhys,6,10,PhysicalDamage,LocalAdded,3,5,7,9,900,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Physical Damage
+LocalAddedPhys_T5,Prefix,LocalAddedPhys,5,22,PhysicalDamage,LocalAdded,5,7,10,13,750,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Physical Damage
+LocalAddedPhys_T4,Prefix,LocalAddedPhys,4,35,PhysicalDamage,LocalAdded,8,11,15,19,600,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Physical Damage
+LocalAddedPhys_T3,Prefix,LocalAddedPhys,3,50,PhysicalDamage,LocalAdded,12,16,22,27,450,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Physical Damage
+LocalAddedPhys_T2,Prefix,LocalAddedPhys,2,68,PhysicalDamage,LocalAdded,17,22,30,36,300,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Physical Damage
+LocalAddedPhys_T1,Prefix,LocalAddedPhys,1,84,PhysicalDamage,LocalAdded,23,29,40,48,180,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Physical Damage
+LocalAddedFire_T7,Prefix,LocalAddedFire,7,1,FireDamage,LocalAdded,1,2,3,4,1000,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Fire Damage
+LocalAddedFire_T6,Prefix,LocalAddedFire,6,10,FireDamage,LocalAdded,3,5,7,9,900,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Fire Damage
+LocalAddedFire_T5,Prefix,LocalAddedFire,5,22,FireDamage,LocalAdded,6,8,12,15,750,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Fire Damage
+LocalAddedFire_T4,Prefix,LocalAddedFire,4,35,FireDamage,LocalAdded,10,13,19,23,600,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Fire Damage
+LocalAddedFire_T3,Prefix,LocalAddedFire,3,50,FireDamage,LocalAdded,15,19,28,34,450,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Fire Damage
+LocalAddedFire_T2,Prefix,LocalAddedFire,2,68,FireDamage,LocalAdded,21,27,40,48,300,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Fire Damage
+LocalAddedFire_T1,Prefix,LocalAddedFire,1,84,FireDamage,LocalAdded,28,36,54,64,180,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Fire Damage
+LocalAddedCold_T7,Prefix,LocalAddedCold,7,1,ColdDamage,LocalAdded,1,2,2,4,1000,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Cold Damage
+LocalAddedCold_T6,Prefix,LocalAddedCold,6,10,ColdDamage,LocalAdded,3,4,6,8,900,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Cold Damage
+LocalAddedCold_T5,Prefix,LocalAddedCold,5,22,ColdDamage,LocalAdded,5,7,10,13,750,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Cold Damage
+LocalAddedCold_T4,Prefix,LocalAddedCold,4,35,ColdDamage,LocalAdded,9,12,17,21,600,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Cold Damage
+LocalAddedCold_T3,Prefix,LocalAddedCold,3,50,ColdDamage,LocalAdded,13,17,25,31,450,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Cold Damage
+LocalAddedCold_T2,Prefix,LocalAddedCold,2,68,ColdDamage,LocalAdded,19,24,36,43,300,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Cold Damage
+LocalAddedCold_T1,Prefix,LocalAddedCold,1,84,ColdDamage,LocalAdded,25,32,48,57,180,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Cold Damage
+LocalAddedLightning_T7,Prefix,LocalAddedLightning,7,1,LightningDamage,LocalAdded,1,1,4,6,1000,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Lightning Damage
+LocalAddedLightning_T6,Prefix,LocalAddedLightning,6,10,LightningDamage,LocalAdded,1,2,9,12,900,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Lightning Damage
+LocalAddedLightning_T5,Prefix,LocalAddedLightning,5,22,LightningDamage,LocalAdded,1,3,16,20,750,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Lightning Damage
+LocalAddedLightning_T4,Prefix,LocalAddedLightning,4,35,LightningDamage,LocalAdded,2,4,26,32,600,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Lightning Damage
+LocalAddedLightning_T3,Prefix,LocalAddedLightning,3,50,LightningDamage,LocalAdded,2,6,38,46,450,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Lightning Damage
+LocalAddedLightning_T2,Prefix,LocalAddedLightning,2,68,LightningDamage,LocalAdded,3,8,55,66,300,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Lightning Damage
+LocalAddedLightning_T1,Prefix,LocalAddedLightning,1,84,LightningDamage,LocalAdded,4,10,74,88,180,Item.Weapon.Melee|Item.Weapon.Ranged,Adds {0} to {1} Lightning Damage
+SpellDamageInc_T7,Prefix,SpellDamageInc,7,1,SpellDamage,Increased,10,14,0,0,1000,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Amulet,{0}% increased Spell Damage
+SpellDamageInc_T6,Prefix,SpellDamageInc,6,10,SpellDamage,Increased,15,22,0,0,900,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Amulet,{0}% increased Spell Damage
+SpellDamageInc_T5,Prefix,SpellDamageInc,5,22,SpellDamage,Increased,23,32,0,0,750,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Amulet,{0}% increased Spell Damage
+SpellDamageInc_T4,Prefix,SpellDamageInc,4,35,SpellDamage,Increased,33,44,0,0,600,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Amulet,{0}% increased Spell Damage
+SpellDamageInc_T3,Prefix,SpellDamageInc,3,50,SpellDamage,Increased,45,59,0,0,450,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Amulet,{0}% increased Spell Damage
+SpellDamageInc_T2,Prefix,SpellDamageInc,2,68,SpellDamage,Increased,60,74,0,0,300,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Amulet,{0}% increased Spell Damage
+SpellDamageInc_T1,Prefix,SpellDamageInc,1,84,SpellDamage,Increased,75,89,0,0,180,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Amulet,{0}% increased Spell Damage
+SpellAddedFire_T7,Prefix,SpellAddedFire,7,1,SpellFireDamage,Added,1,2,2,3,1000,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Fire Damage to Spells
+SpellAddedFire_T6,Prefix,SpellAddedFire,6,10,SpellFireDamage,Added,2,4,5,7,900,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Fire Damage to Spells
+SpellAddedFire_T5,Prefix,SpellAddedFire,5,22,SpellFireDamage,Added,4,6,9,11,750,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Fire Damage to Spells
+SpellAddedFire_T4,Prefix,SpellAddedFire,4,35,SpellFireDamage,Added,7,9,14,17,600,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Fire Damage to Spells
+SpellAddedFire_T3,Prefix,SpellAddedFire,3,50,SpellFireDamage,Added,11,14,21,25,450,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Fire Damage to Spells
+SpellAddedFire_T2,Prefix,SpellAddedFire,2,68,SpellFireDamage,Added,15,19,29,35,300,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Fire Damage to Spells
+SpellAddedFire_T1,Prefix,SpellAddedFire,1,84,SpellFireDamage,Added,20,26,39,46,180,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Fire Damage to Spells
+SpellAddedCold_T7,Prefix,SpellAddedCold,7,1,SpellColdDamage,Added,1,1,2,3,1000,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Cold Damage to Spells
+SpellAddedCold_T6,Prefix,SpellAddedCold,6,10,SpellColdDamage,Added,2,3,4,6,900,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Cold Damage to Spells
+SpellAddedCold_T5,Prefix,SpellAddedCold,5,22,SpellColdDamage,Added,3,5,8,10,750,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Cold Damage to Spells
+SpellAddedCold_T4,Prefix,SpellAddedCold,4,35,SpellColdDamage,Added,6,8,12,15,600,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Cold Damage to Spells
+SpellAddedCold_T3,Prefix,SpellAddedCold,3,50,SpellColdDamage,Added,9,12,18,22,450,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Cold Damage to Spells
+SpellAddedCold_T2,Prefix,SpellAddedCold,2,68,SpellColdDamage,Added,13,17,26,31,300,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Cold Damage to Spells
+SpellAddedCold_T1,Prefix,SpellAddedCold,1,84,SpellColdDamage,Added,18,23,35,41,180,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Cold Damage to Spells
+SpellAddedLightning_T7,Prefix,SpellAddedLightning,7,1,SpellLightningDamage,Added,1,1,3,4,1000,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Lightning Damage to Spells
+SpellAddedLightning_T6,Prefix,SpellAddedLightning,6,10,SpellLightningDamage,Added,1,2,7,9,900,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Lightning Damage to Spells
+SpellAddedLightning_T5,Prefix,SpellAddedLightning,5,22,SpellLightningDamage,Added,1,2,12,15,750,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Lightning Damage to Spells
+SpellAddedLightning_T4,Prefix,SpellAddedLightning,4,35,SpellLightningDamage,Added,1,3,19,23,600,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Lightning Damage to Spells
+SpellAddedLightning_T3,Prefix,SpellAddedLightning,3,50,SpellLightningDamage,Added,2,4,28,34,450,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Lightning Damage to Spells
+SpellAddedLightning_T2,Prefix,SpellAddedLightning,2,68,SpellLightningDamage,Added,2,6,40,48,300,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Lightning Damage to Spells
+SpellAddedLightning_T1,Prefix,SpellAddedLightning,1,84,SpellLightningDamage,Added,3,7,54,64,180,Item.Weapon.Caster|Item.OffHand.Focus,Adds {0} to {1} Lightning Damage to Spells
+ElementalDamageInc_T6,Prefix,ElementalDamageInc,6,1,ElementalDamage,Increased,5,10,0,0,1000,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Jewellery.Ring,{0}% increased Elemental Damage
+ElementalDamageInc_T5,Prefix,ElementalDamageInc,5,10,ElementalDamage,Increased,11,16,0,0,900,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Jewellery.Ring,{0}% increased Elemental Damage
+ElementalDamageInc_T4,Prefix,ElementalDamageInc,4,22,ElementalDamage,Increased,17,22,0,0,750,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Jewellery.Ring,{0}% increased Elemental Damage
+ElementalDamageInc_T3,Prefix,ElementalDamageInc,3,35,ElementalDamage,Increased,23,28,0,0,600,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Jewellery.Ring,{0}% increased Elemental Damage
+ElementalDamageInc_T2,Prefix,ElementalDamageInc,2,50,ElementalDamage,Increased,29,34,0,0,450,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Jewellery.Ring,{0}% increased Elemental Damage
+ElementalDamageInc_T1,Prefix,ElementalDamageInc,1,68,ElementalDamage,Increased,35,40,0,0,300,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Jewellery.Ring,{0}% increased Elemental Damage
+MaxHealth_T7,Prefix,MaxHealth,7,1,MaxHealth,Flat,10,19,0,0,1000,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield,+{0} to maximum Health
+MaxHealth_T6,Prefix,MaxHealth,6,10,MaxHealth,Flat,20,34,0,0,900,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield,+{0} to maximum Health
+MaxHealth_T5,Prefix,MaxHealth,5,22,MaxHealth,Flat,35,49,0,0,750,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield,+{0} to maximum Health
+MaxHealth_T4,Prefix,MaxHealth,4,35,MaxHealth,Flat,50,69,0,0,600,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield,+{0} to maximum Health
+MaxHealth_T3,Prefix,MaxHealth,3,50,MaxHealth,Flat,70,89,0,0,450,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield,+{0} to maximum Health
+MaxHealth_T2,Prefix,MaxHealth,2,68,MaxHealth,Flat,90,109,0,0,300,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield,+{0} to maximum Health
+MaxHealth_T1,Prefix,MaxHealth,1,84,MaxHealth,Flat,110,130,0,0,180,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield,+{0} to maximum Health
+MaxMana_T7,Prefix,MaxMana,7,1,MaxMana,Flat,10,19,0,0,1000,Item.Armour.Helmet|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.Weapon.Caster|Item.OffHand.Focus,+{0} to maximum Mana
+MaxMana_T6,Prefix,MaxMana,6,10,MaxMana,Flat,20,29,0,0,900,Item.Armour.Helmet|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.Weapon.Caster|Item.OffHand.Focus,+{0} to maximum Mana
+MaxMana_T5,Prefix,MaxMana,5,22,MaxMana,Flat,30,44,0,0,750,Item.Armour.Helmet|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.Weapon.Caster|Item.OffHand.Focus,+{0} to maximum Mana
+MaxMana_T4,Prefix,MaxMana,4,35,MaxMana,Flat,45,59,0,0,600,Item.Armour.Helmet|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.Weapon.Caster|Item.OffHand.Focus,+{0} to maximum Mana
+MaxMana_T3,Prefix,MaxMana,3,50,MaxMana,Flat,60,74,0,0,450,Item.Armour.Helmet|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.Weapon.Caster|Item.OffHand.Focus,+{0} to maximum Mana
+MaxMana_T2,Prefix,MaxMana,2,68,MaxMana,Flat,75,89,0,0,300,Item.Armour.Helmet|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.Weapon.Caster|Item.OffHand.Focus,+{0} to maximum Mana
+MaxMana_T1,Prefix,MaxMana,1,84,MaxMana,Flat,90,105,0,0,180,Item.Armour.Helmet|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.Weapon.Caster|Item.OffHand.Focus,+{0} to maximum Mana
+MaxStamina_T5,Prefix,MaxStamina,5,1,MaxStamina,Flat,5,8,0,0,800,Item.Jewellery.Belt|Item.Armour.Boots|Item.Armour.Body|Item.Jewellery.Amulet,+{0} to maximum Stamina
+MaxStamina_T4,Prefix,MaxStamina,4,10,MaxStamina,Flat,9,12,0,0,720,Item.Jewellery.Belt|Item.Armour.Boots|Item.Armour.Body|Item.Jewellery.Amulet,+{0} to maximum Stamina
+MaxStamina_T3,Prefix,MaxStamina,3,22,MaxStamina,Flat,13,16,0,0,600,Item.Jewellery.Belt|Item.Armour.Boots|Item.Armour.Body|Item.Jewellery.Amulet,+{0} to maximum Stamina
+MaxStamina_T2,Prefix,MaxStamina,2,35,MaxStamina,Flat,17,20,0,0,480,Item.Jewellery.Belt|Item.Armour.Boots|Item.Armour.Body|Item.Jewellery.Amulet,+{0} to maximum Stamina
+MaxStamina_T1,Prefix,MaxStamina,1,50,MaxStamina,Flat,21,25,0,0,360,Item.Jewellery.Belt|Item.Armour.Boots|Item.Armour.Body|Item.Jewellery.Amulet,+{0} to maximum Stamina
+LocalArmourInc_T7,Prefix,LocalArmourInc,7,1,Armour,LocalIncreased,15,26,0,0,1000,Item.Defence.Armour,{0}% increased Armour
+LocalArmourInc_T6,Prefix,LocalArmourInc,6,10,Armour,LocalIncreased,27,42,0,0,900,Item.Defence.Armour,{0}% increased Armour
+LocalArmourInc_T5,Prefix,LocalArmourInc,5,22,Armour,LocalIncreased,43,55,0,0,750,Item.Defence.Armour,{0}% increased Armour
+LocalArmourInc_T4,Prefix,LocalArmourInc,4,35,Armour,LocalIncreased,56,67,0,0,600,Item.Defence.Armour,{0}% increased Armour
+LocalArmourInc_T3,Prefix,LocalArmourInc,3,50,Armour,LocalIncreased,68,79,0,0,450,Item.Defence.Armour,{0}% increased Armour
+LocalArmourInc_T2,Prefix,LocalArmourInc,2,68,Armour,LocalIncreased,80,91,0,0,300,Item.Defence.Armour,{0}% increased Armour
+LocalArmourInc_T1,Prefix,LocalArmourInc,1,84,Armour,LocalIncreased,92,110,0,0,180,Item.Defence.Armour,{0}% increased Armour
+LocalArmourFlat_T7,Prefix,LocalArmourFlat,7,1,Armour,LocalAdded,10,20,0,0,1000,Item.Defence.Armour,+{0} to Armour
+LocalArmourFlat_T6,Prefix,LocalArmourFlat,6,10,Armour,LocalAdded,21,45,0,0,900,Item.Defence.Armour,+{0} to Armour
+LocalArmourFlat_T5,Prefix,LocalArmourFlat,5,22,Armour,LocalAdded,46,80,0,0,750,Item.Defence.Armour,+{0} to Armour
+LocalArmourFlat_T4,Prefix,LocalArmourFlat,4,35,Armour,LocalAdded,81,120,0,0,600,Item.Defence.Armour,+{0} to Armour
+LocalArmourFlat_T3,Prefix,LocalArmourFlat,3,50,Armour,LocalAdded,121,180,0,0,450,Item.Defence.Armour,+{0} to Armour
+LocalArmourFlat_T2,Prefix,LocalArmourFlat,2,68,Armour,LocalAdded,181,250,0,0,300,Item.Defence.Armour,+{0} to Armour
+LocalArmourFlat_T1,Prefix,LocalArmourFlat,1,84,Armour,LocalAdded,251,330,0,0,180,Item.Defence.Armour,+{0} to Armour
+LocalEvasionInc_T7,Prefix,LocalEvasionInc,7,1,Evasion,LocalIncreased,15,26,0,0,1000,Item.Defence.Evasion,{0}% increased Evasion Rating
+LocalEvasionInc_T6,Prefix,LocalEvasionInc,6,10,Evasion,LocalIncreased,27,42,0,0,900,Item.Defence.Evasion,{0}% increased Evasion Rating
+LocalEvasionInc_T5,Prefix,LocalEvasionInc,5,22,Evasion,LocalIncreased,43,55,0,0,750,Item.Defence.Evasion,{0}% increased Evasion Rating
+LocalEvasionInc_T4,Prefix,LocalEvasionInc,4,35,Evasion,LocalIncreased,56,67,0,0,600,Item.Defence.Evasion,{0}% increased Evasion Rating
+LocalEvasionInc_T3,Prefix,LocalEvasionInc,3,50,Evasion,LocalIncreased,68,79,0,0,450,Item.Defence.Evasion,{0}% increased Evasion Rating
+LocalEvasionInc_T2,Prefix,LocalEvasionInc,2,68,Evasion,LocalIncreased,80,91,0,0,300,Item.Defence.Evasion,{0}% increased Evasion Rating
+LocalEvasionInc_T1,Prefix,LocalEvasionInc,1,84,Evasion,LocalIncreased,92,110,0,0,180,Item.Defence.Evasion,{0}% increased Evasion Rating
+LocalEvasionFlat_T7,Prefix,LocalEvasionFlat,7,1,Evasion,LocalAdded,10,20,0,0,1000,Item.Defence.Evasion,+{0} to Evasion Rating
+LocalEvasionFlat_T6,Prefix,LocalEvasionFlat,6,10,Evasion,LocalAdded,21,45,0,0,900,Item.Defence.Evasion,+{0} to Evasion Rating
+LocalEvasionFlat_T5,Prefix,LocalEvasionFlat,5,22,Evasion,LocalAdded,46,80,0,0,750,Item.Defence.Evasion,+{0} to Evasion Rating
+LocalEvasionFlat_T4,Prefix,LocalEvasionFlat,4,35,Evasion,LocalAdded,81,120,0,0,600,Item.Defence.Evasion,+{0} to Evasion Rating
+LocalEvasionFlat_T3,Prefix,LocalEvasionFlat,3,50,Evasion,LocalAdded,121,180,0,0,450,Item.Defence.Evasion,+{0} to Evasion Rating
+LocalEvasionFlat_T2,Prefix,LocalEvasionFlat,2,68,Evasion,LocalAdded,181,250,0,0,300,Item.Defence.Evasion,+{0} to Evasion Rating
+LocalEvasionFlat_T1,Prefix,LocalEvasionFlat,1,84,Evasion,LocalAdded,251,330,0,0,180,Item.Defence.Evasion,+{0} to Evasion Rating
+LocalEnergyShieldInc_T7,Prefix,LocalEnergyShieldInc,7,1,EnergyShield,LocalIncreased,15,26,0,0,1000,Item.Defence.EnergyShield,{0}% increased Energy Shield
+LocalEnergyShieldInc_T6,Prefix,LocalEnergyShieldInc,6,10,EnergyShield,LocalIncreased,27,42,0,0,900,Item.Defence.EnergyShield,{0}% increased Energy Shield
+LocalEnergyShieldInc_T5,Prefix,LocalEnergyShieldInc,5,22,EnergyShield,LocalIncreased,43,55,0,0,750,Item.Defence.EnergyShield,{0}% increased Energy Shield
+LocalEnergyShieldInc_T4,Prefix,LocalEnergyShieldInc,4,35,EnergyShield,LocalIncreased,56,67,0,0,600,Item.Defence.EnergyShield,{0}% increased Energy Shield
+LocalEnergyShieldInc_T3,Prefix,LocalEnergyShieldInc,3,50,EnergyShield,LocalIncreased,68,79,0,0,450,Item.Defence.EnergyShield,{0}% increased Energy Shield
+LocalEnergyShieldInc_T2,Prefix,LocalEnergyShieldInc,2,68,EnergyShield,LocalIncreased,80,91,0,0,300,Item.Defence.EnergyShield,{0}% increased Energy Shield
+LocalEnergyShieldInc_T1,Prefix,LocalEnergyShieldInc,1,84,EnergyShield,LocalIncreased,92,110,0,0,180,Item.Defence.EnergyShield,{0}% increased Energy Shield
+LocalEnergyShieldFlat_T7,Prefix,LocalEnergyShieldFlat,7,1,EnergyShield,LocalAdded,3,6,0,0,1000,Item.Defence.EnergyShield,+{0} to maximum Energy Shield
+LocalEnergyShieldFlat_T6,Prefix,LocalEnergyShieldFlat,6,10,EnergyShield,LocalAdded,7,12,0,0,900,Item.Defence.EnergyShield,+{0} to maximum Energy Shield
+LocalEnergyShieldFlat_T5,Prefix,LocalEnergyShieldFlat,5,22,EnergyShield,LocalAdded,13,20,0,0,750,Item.Defence.EnergyShield,+{0} to maximum Energy Shield
+LocalEnergyShieldFlat_T4,Prefix,LocalEnergyShieldFlat,4,35,EnergyShield,LocalAdded,21,30,0,0,600,Item.Defence.EnergyShield,+{0} to maximum Energy Shield
+LocalEnergyShieldFlat_T3,Prefix,LocalEnergyShieldFlat,3,50,EnergyShield,LocalAdded,31,42,0,0,450,Item.Defence.EnergyShield,+{0} to maximum Energy Shield
+LocalEnergyShieldFlat_T2,Prefix,LocalEnergyShieldFlat,2,68,EnergyShield,LocalAdded,43,56,0,0,300,Item.Defence.EnergyShield,+{0} to maximum Energy Shield
+LocalEnergyShieldFlat_T1,Prefix,LocalEnergyShieldFlat,1,84,EnergyShield,LocalAdded,57,72,0,0,180,Item.Defence.EnergyShield,+{0} to maximum Energy Shield
+AttackAddedPhys_T7,Prefix,AttackAddedPhys,7,1,AttackPhysicalDamage,Added,1,1,2,3,1000,Item.Armour.Gloves|Item.Jewellery.Ring|Item.Jewellery.Amulet,Adds {0} to {1} Physical Damage to Attacks
+AttackAddedPhys_T6,Prefix,AttackAddedPhys,6,10,AttackPhysicalDamage,Added,1,2,3,5,900,Item.Armour.Gloves|Item.Jewellery.Ring|Item.Jewellery.Amulet,Adds {0} to {1} Physical Damage to Attacks
+AttackAddedPhys_T5,Prefix,AttackAddedPhys,5,22,AttackPhysicalDamage,Added,2,3,5,7,750,Item.Armour.Gloves|Item.Jewellery.Ring|Item.Jewellery.Amulet,Adds {0} to {1} Physical Damage to Attacks
+AttackAddedPhys_T4,Prefix,AttackAddedPhys,4,35,AttackPhysicalDamage,Added,3,5,7,10,600,Item.Armour.Gloves|Item.Jewellery.Ring|Item.Jewellery.Amulet,Adds {0} to {1} Physical Damage to Attacks
+AttackAddedPhys_T3,Prefix,AttackAddedPhys,3,50,AttackPhysicalDamage,Added,5,7,10,13,450,Item.Armour.Gloves|Item.Jewellery.Ring|Item.Jewellery.Amulet,Adds {0} to {1} Physical Damage to Attacks
+AttackAddedPhys_T2,Prefix,AttackAddedPhys,2,68,AttackPhysicalDamage,Added,7,9,13,17,300,Item.Armour.Gloves|Item.Jewellery.Ring|Item.Jewellery.Amulet,Adds {0} to {1} Physical Damage to Attacks
+AttackAddedPhys_T1,Prefix,AttackAddedPhys,1,84,AttackPhysicalDamage,Added,9,12,17,22,180,Item.Armour.Gloves|Item.Jewellery.Ring|Item.Jewellery.Amulet,Adds {0} to {1} Physical Damage to Attacks
+ThrowSlamDamageInc_T5,Prefix,ThrowSlamDamageInc,5,1,ThrowSlamDamage,Increased,10,19,0,0,800,Item.Armour.Gloves|Item.Jewellery.Belt|Item.Weapon.Melee,{0}% increased Throw and Slam Damage
+ThrowSlamDamageInc_T4,Prefix,ThrowSlamDamageInc,4,10,ThrowSlamDamage,Increased,20,29,0,0,720,Item.Armour.Gloves|Item.Jewellery.Belt|Item.Weapon.Melee,{0}% increased Throw and Slam Damage
+ThrowSlamDamageInc_T3,Prefix,ThrowSlamDamageInc,3,22,ThrowSlamDamage,Increased,30,39,0,0,600,Item.Armour.Gloves|Item.Jewellery.Belt|Item.Weapon.Melee,{0}% increased Throw and Slam Damage
+ThrowSlamDamageInc_T2,Prefix,ThrowSlamDamageInc,2,35,ThrowSlamDamage,Increased,40,49,0,0,480,Item.Armour.Gloves|Item.Jewellery.Belt|Item.Weapon.Melee,{0}% increased Throw and Slam Damage
+ThrowSlamDamageInc_T1,Prefix,ThrowSlamDamageInc,1,50,ThrowSlamDamage,Increased,50,59,0,0,360,Item.Armour.Gloves|Item.Jewellery.Belt|Item.Weapon.Melee,{0}% increased Throw and Slam Damage
+PoiseDamageInc_T5,Prefix,PoiseDamageInc,5,1,PoiseDamage,Increased,10,15,0,0,800,Item.Weapon.Melee|Item.Armour.Gloves|Item.OffHand.Shield,{0}% increased Poise Damage
+PoiseDamageInc_T4,Prefix,PoiseDamageInc,4,10,PoiseDamage,Increased,16,22,0,0,720,Item.Weapon.Melee|Item.Armour.Gloves|Item.OffHand.Shield,{0}% increased Poise Damage
+PoiseDamageInc_T3,Prefix,PoiseDamageInc,3,22,PoiseDamage,Increased,23,30,0,0,600,Item.Weapon.Melee|Item.Armour.Gloves|Item.OffHand.Shield,{0}% increased Poise Damage
+PoiseDamageInc_T2,Prefix,PoiseDamageInc,2,35,PoiseDamage,Increased,31,40,0,0,480,Item.Weapon.Melee|Item.Armour.Gloves|Item.OffHand.Shield,{0}% increased Poise Damage
+PoiseDamageInc_T1,Prefix,PoiseDamageInc,1,50,PoiseDamage,Increased,41,50,0,0,360,Item.Weapon.Melee|Item.Armour.Gloves|Item.OffHand.Shield,{0}% increased Poise Damage
+FireRes_T7,Suffix,FireRes,7,1,FireResist,Flat,6,11,0,0,1000,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Fire Resistance
+FireRes_T6,Suffix,FireRes,6,10,FireResist,Flat,12,17,0,0,900,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Fire Resistance
+FireRes_T5,Suffix,FireRes,5,22,FireResist,Flat,18,23,0,0,750,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Fire Resistance
+FireRes_T4,Suffix,FireRes,4,35,FireResist,Flat,24,29,0,0,600,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Fire Resistance
+FireRes_T3,Suffix,FireRes,3,50,FireResist,Flat,30,35,0,0,450,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Fire Resistance
+FireRes_T2,Suffix,FireRes,2,68,FireResist,Flat,36,41,0,0,300,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Fire Resistance
+FireRes_T1,Suffix,FireRes,1,84,FireResist,Flat,42,46,0,0,180,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Fire Resistance
+ColdRes_T7,Suffix,ColdRes,7,1,ColdResist,Flat,6,11,0,0,1000,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Cold Resistance
+ColdRes_T6,Suffix,ColdRes,6,10,ColdResist,Flat,12,17,0,0,900,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Cold Resistance
+ColdRes_T5,Suffix,ColdRes,5,22,ColdResist,Flat,18,23,0,0,750,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Cold Resistance
+ColdRes_T4,Suffix,ColdRes,4,35,ColdResist,Flat,24,29,0,0,600,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Cold Resistance
+ColdRes_T3,Suffix,ColdRes,3,50,ColdResist,Flat,30,35,0,0,450,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Cold Resistance
+ColdRes_T2,Suffix,ColdRes,2,68,ColdResist,Flat,36,41,0,0,300,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Cold Resistance
+ColdRes_T1,Suffix,ColdRes,1,84,ColdResist,Flat,42,46,0,0,180,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Cold Resistance
+LightningRes_T7,Suffix,LightningRes,7,1,LightningResist,Flat,6,11,0,0,1000,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Lightning Resistance
+LightningRes_T6,Suffix,LightningRes,6,10,LightningResist,Flat,12,17,0,0,900,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Lightning Resistance
+LightningRes_T5,Suffix,LightningRes,5,22,LightningResist,Flat,18,23,0,0,750,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Lightning Resistance
+LightningRes_T4,Suffix,LightningRes,4,35,LightningResist,Flat,24,29,0,0,600,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Lightning Resistance
+LightningRes_T3,Suffix,LightningRes,3,50,LightningResist,Flat,30,35,0,0,450,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Lightning Resistance
+LightningRes_T2,Suffix,LightningRes,2,68,LightningResist,Flat,36,41,0,0,300,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Lightning Resistance
+LightningRes_T1,Suffix,LightningRes,1,84,LightningResist,Flat,42,46,0,0,180,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Lightning Resistance
+ChaosRes_T6,Suffix,ChaosRes,6,1,ChaosResist,Flat,5,10,0,0,400,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Chaos Resistance
+ChaosRes_T5,Suffix,ChaosRes,5,10,ChaosResist,Flat,11,15,0,0,360,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Chaos Resistance
+ChaosRes_T4,Suffix,ChaosRes,4,22,ChaosResist,Flat,16,20,0,0,300,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Chaos Resistance
+ChaosRes_T3,Suffix,ChaosRes,3,35,ChaosResist,Flat,21,25,0,0,240,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Chaos Resistance
+ChaosRes_T2,Suffix,ChaosRes,2,50,ChaosResist,Flat,26,30,0,0,180,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Chaos Resistance
+ChaosRes_T1,Suffix,ChaosRes,1,68,ChaosResist,Flat,31,35,0,0,120,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.OffHand.Shield|Item.OffHand.Focus,+{0}% to Chaos Resistance
+AllElementalRes_T6,Suffix,AllElementalRes,6,1,AllElementalResist,Flat,3,5,0,0,500,Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.OffHand.Shield,+{0}% to all Elemental Resistances
+AllElementalRes_T5,Suffix,AllElementalRes,5,10,AllElementalResist,Flat,6,8,0,0,450,Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.OffHand.Shield,+{0}% to all Elemental Resistances
+AllElementalRes_T4,Suffix,AllElementalRes,4,22,AllElementalResist,Flat,9,11,0,0,375,Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.OffHand.Shield,+{0}% to all Elemental Resistances
+AllElementalRes_T3,Suffix,AllElementalRes,3,35,AllElementalResist,Flat,12,14,0,0,300,Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.OffHand.Shield,+{0}% to all Elemental Resistances
+AllElementalRes_T2,Suffix,AllElementalRes,2,50,AllElementalResist,Flat,15,16,0,0,225,Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.OffHand.Shield,+{0}% to all Elemental Resistances
+AllElementalRes_T1,Suffix,AllElementalRes,1,68,AllElementalResist,Flat,17,18,0,0,150,Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.OffHand.Shield,+{0}% to all Elemental Resistances
+Strength_T7,Suffix,Strength,7,1,Strength,Flat,8,12,0,0,1000,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Melee|Item.OffHand.Shield,+{0} to Strength
+Strength_T6,Suffix,Strength,6,10,Strength,Flat,13,17,0,0,900,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Melee|Item.OffHand.Shield,+{0} to Strength
+Strength_T5,Suffix,Strength,5,22,Strength,Flat,18,22,0,0,750,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Melee|Item.OffHand.Shield,+{0} to Strength
+Strength_T4,Suffix,Strength,4,35,Strength,Flat,23,27,0,0,600,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Melee|Item.OffHand.Shield,+{0} to Strength
+Strength_T3,Suffix,Strength,3,50,Strength,Flat,28,32,0,0,450,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Melee|Item.OffHand.Shield,+{0} to Strength
+Strength_T2,Suffix,Strength,2,68,Strength,Flat,33,37,0,0,300,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Melee|Item.OffHand.Shield,+{0} to Strength
+Strength_T1,Suffix,Strength,1,84,Strength,Flat,38,42,0,0,180,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Belt|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Melee|Item.OffHand.Shield,+{0} to Strength
+Dexterity_T7,Suffix,Dexterity,7,1,Dexterity,Flat,8,12,0,0,1000,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Melee|Item.Weapon.Ranged,+{0} to Dexterity
+Dexterity_T6,Suffix,Dexterity,6,10,Dexterity,Flat,13,17,0,0,900,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Melee|Item.Weapon.Ranged,+{0} to Dexterity
+Dexterity_T5,Suffix,Dexterity,5,22,Dexterity,Flat,18,22,0,0,750,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Melee|Item.Weapon.Ranged,+{0} to Dexterity
+Dexterity_T4,Suffix,Dexterity,4,35,Dexterity,Flat,23,27,0,0,600,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Melee|Item.Weapon.Ranged,+{0} to Dexterity
+Dexterity_T3,Suffix,Dexterity,3,50,Dexterity,Flat,28,32,0,0,450,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Melee|Item.Weapon.Ranged,+{0} to Dexterity
+Dexterity_T2,Suffix,Dexterity,2,68,Dexterity,Flat,33,37,0,0,300,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Melee|Item.Weapon.Ranged,+{0} to Dexterity
+Dexterity_T1,Suffix,Dexterity,1,84,Dexterity,Flat,38,42,0,0,180,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Melee|Item.Weapon.Ranged,+{0} to Dexterity
+Intelligence_T7,Suffix,Intelligence,7,1,Intelligence,Flat,8,12,0,0,1000,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Caster|Item.OffHand.Focus,+{0} to Intelligence
+Intelligence_T6,Suffix,Intelligence,6,10,Intelligence,Flat,13,17,0,0,900,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Caster|Item.OffHand.Focus,+{0} to Intelligence
+Intelligence_T5,Suffix,Intelligence,5,22,Intelligence,Flat,18,22,0,0,750,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Caster|Item.OffHand.Focus,+{0} to Intelligence
+Intelligence_T4,Suffix,Intelligence,4,35,Intelligence,Flat,23,27,0,0,600,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Caster|Item.OffHand.Focus,+{0} to Intelligence
+Intelligence_T3,Suffix,Intelligence,3,50,Intelligence,Flat,28,32,0,0,450,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Caster|Item.OffHand.Focus,+{0} to Intelligence
+Intelligence_T2,Suffix,Intelligence,2,68,Intelligence,Flat,33,37,0,0,300,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Caster|Item.OffHand.Focus,+{0} to Intelligence
+Intelligence_T1,Suffix,Intelligence,1,84,Intelligence,Flat,38,42,0,0,180,Item.Armour.Helmet|Item.Armour.Body|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Amulet|Item.Jewellery.Ring|Item.Weapon.Caster|Item.OffHand.Focus,+{0} to Intelligence
+LocalAttackSpeed_T7,Suffix,LocalAttackSpeed,7,1,AttackSpeed,LocalIncreased,5,7,0,0,1000,Item.Weapon.Melee|Item.Weapon.Ranged,{0}% increased Attack Speed
+LocalAttackSpeed_T6,Suffix,LocalAttackSpeed,6,10,AttackSpeed,LocalIncreased,8,10,0,0,900,Item.Weapon.Melee|Item.Weapon.Ranged,{0}% increased Attack Speed
+LocalAttackSpeed_T5,Suffix,LocalAttackSpeed,5,22,AttackSpeed,LocalIncreased,11,13,0,0,750,Item.Weapon.Melee|Item.Weapon.Ranged,{0}% increased Attack Speed
+LocalAttackSpeed_T4,Suffix,LocalAttackSpeed,4,35,AttackSpeed,LocalIncreased,14,16,0,0,600,Item.Weapon.Melee|Item.Weapon.Ranged,{0}% increased Attack Speed
+LocalAttackSpeed_T3,Suffix,LocalAttackSpeed,3,50,AttackSpeed,LocalIncreased,17,19,0,0,450,Item.Weapon.Melee|Item.Weapon.Ranged,{0}% increased Attack Speed
+LocalAttackSpeed_T2,Suffix,LocalAttackSpeed,2,68,AttackSpeed,LocalIncreased,20,22,0,0,300,Item.Weapon.Melee|Item.Weapon.Ranged,{0}% increased Attack Speed
+LocalAttackSpeed_T1,Suffix,LocalAttackSpeed,1,84,AttackSpeed,LocalIncreased,23,26,0,0,180,Item.Weapon.Melee|Item.Weapon.Ranged,{0}% increased Attack Speed
+AttackSpeed_T5,Suffix,AttackSpeed,5,1,AttackSpeed,Increased,5,7,0,0,700,Item.Armour.Gloves|Item.Jewellery.Ring,{0}% increased Attack Speed
+AttackSpeed_T4,Suffix,AttackSpeed,4,10,AttackSpeed,Increased,8,10,0,0,630,Item.Armour.Gloves|Item.Jewellery.Ring,{0}% increased Attack Speed
+AttackSpeed_T3,Suffix,AttackSpeed,3,22,AttackSpeed,Increased,11,13,0,0,525,Item.Armour.Gloves|Item.Jewellery.Ring,{0}% increased Attack Speed
+AttackSpeed_T2,Suffix,AttackSpeed,2,35,AttackSpeed,Increased,14,16,0,0,420,Item.Armour.Gloves|Item.Jewellery.Ring,{0}% increased Attack Speed
+AttackSpeed_T1,Suffix,AttackSpeed,1,50,AttackSpeed,Increased,17,20,0,0,315,Item.Armour.Gloves|Item.Jewellery.Ring,{0}% increased Attack Speed
+CastSpeed_T6,Suffix,CastSpeed,6,1,CastSpeed,Increased,8,12,0,0,1000,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Jewellery.Ring,{0}% increased Cast Speed
+CastSpeed_T5,Suffix,CastSpeed,5,10,CastSpeed,Increased,13,17,0,0,900,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Jewellery.Ring,{0}% increased Cast Speed
+CastSpeed_T4,Suffix,CastSpeed,4,22,CastSpeed,Increased,18,22,0,0,750,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Jewellery.Ring,{0}% increased Cast Speed
+CastSpeed_T3,Suffix,CastSpeed,3,35,CastSpeed,Increased,23,27,0,0,600,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Jewellery.Ring,{0}% increased Cast Speed
+CastSpeed_T2,Suffix,CastSpeed,2,50,CastSpeed,Increased,28,32,0,0,450,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Jewellery.Ring,{0}% increased Cast Speed
+CastSpeed_T1,Suffix,CastSpeed,1,68,CastSpeed,Increased,33,37,0,0,300,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Jewellery.Ring,{0}% increased Cast Speed
+LocalCritChance_T6,Suffix,LocalCritChance,6,1,CritChance,LocalIncreased,10,14,0,0,1000,Item.Weapon.Melee|Item.Weapon.Ranged|Item.Weapon.Caster,{0}% increased Critical Strike Chance
+LocalCritChance_T5,Suffix,LocalCritChance,5,10,CritChance,LocalIncreased,15,19,0,0,900,Item.Weapon.Melee|Item.Weapon.Ranged|Item.Weapon.Caster,{0}% increased Critical Strike Chance
+LocalCritChance_T4,Suffix,LocalCritChance,4,22,CritChance,LocalIncreased,20,24,0,0,750,Item.Weapon.Melee|Item.Weapon.Ranged|Item.Weapon.Caster,{0}% increased Critical Strike Chance
+LocalCritChance_T3,Suffix,LocalCritChance,3,35,CritChance,LocalIncreased,25,29,0,0,600,Item.Weapon.Melee|Item.Weapon.Ranged|Item.Weapon.Caster,{0}% increased Critical Strike Chance
+LocalCritChance_T2,Suffix,LocalCritChance,2,50,CritChance,LocalIncreased,30,34,0,0,450,Item.Weapon.Melee|Item.Weapon.Ranged|Item.Weapon.Caster,{0}% increased Critical Strike Chance
+LocalCritChance_T1,Suffix,LocalCritChance,1,68,CritChance,LocalIncreased,35,38,0,0,300,Item.Weapon.Melee|Item.Weapon.Ranged|Item.Weapon.Caster,{0}% increased Critical Strike Chance
+CritMultiplier_T6,Suffix,CritMultiplier,6,1,CritMultiplier,Flat,8,12,0,0,1000,Item.Weapon.Melee|Item.Weapon.Ranged|Item.Weapon.Caster|Item.Jewellery.Amulet,+{0}% to Critical Strike Multiplier
+CritMultiplier_T5,Suffix,CritMultiplier,5,10,CritMultiplier,Flat,13,19,0,0,900,Item.Weapon.Melee|Item.Weapon.Ranged|Item.Weapon.Caster|Item.Jewellery.Amulet,+{0}% to Critical Strike Multiplier
+CritMultiplier_T4,Suffix,CritMultiplier,4,22,CritMultiplier,Flat,20,24,0,0,750,Item.Weapon.Melee|Item.Weapon.Ranged|Item.Weapon.Caster|Item.Jewellery.Amulet,+{0}% to Critical Strike Multiplier
+CritMultiplier_T3,Suffix,CritMultiplier,3,35,CritMultiplier,Flat,25,29,0,0,600,Item.Weapon.Melee|Item.Weapon.Ranged|Item.Weapon.Caster|Item.Jewellery.Amulet,+{0}% to Critical Strike Multiplier
+CritMultiplier_T2,Suffix,CritMultiplier,2,50,CritMultiplier,Flat,30,34,0,0,450,Item.Weapon.Melee|Item.Weapon.Ranged|Item.Weapon.Caster|Item.Jewellery.Amulet,+{0}% to Critical Strike Multiplier
+CritMultiplier_T1,Suffix,CritMultiplier,1,68,CritMultiplier,Flat,35,38,0,0,300,Item.Weapon.Melee|Item.Weapon.Ranged|Item.Weapon.Caster|Item.Jewellery.Amulet,+{0}% to Critical Strike Multiplier
+HealthRegen_T7,Suffix,HealthRegen,7,1,HealthRegen,Flat,1,2,0,0,1000,Item.Armour.Helmet|Item.Armour.Body|Item.Jewellery.Belt|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.OffHand.Shield,Regenerate {0} Health per second
+HealthRegen_T6,Suffix,HealthRegen,6,10,HealthRegen,Flat,3,4,0,0,900,Item.Armour.Helmet|Item.Armour.Body|Item.Jewellery.Belt|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.OffHand.Shield,Regenerate {0} Health per second
+HealthRegen_T5,Suffix,HealthRegen,5,22,HealthRegen,Flat,5,7,0,0,750,Item.Armour.Helmet|Item.Armour.Body|Item.Jewellery.Belt|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.OffHand.Shield,Regenerate {0} Health per second
+HealthRegen_T4,Suffix,HealthRegen,4,35,HealthRegen,Flat,8,11,0,0,600,Item.Armour.Helmet|Item.Armour.Body|Item.Jewellery.Belt|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.OffHand.Shield,Regenerate {0} Health per second
+HealthRegen_T3,Suffix,HealthRegen,3,50,HealthRegen,Flat,12,16,0,0,450,Item.Armour.Helmet|Item.Armour.Body|Item.Jewellery.Belt|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.OffHand.Shield,Regenerate {0} Health per second
+HealthRegen_T2,Suffix,HealthRegen,2,68,HealthRegen,Flat,17,22,0,0,300,Item.Armour.Helmet|Item.Armour.Body|Item.Jewellery.Belt|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.OffHand.Shield,Regenerate {0} Health per second
+HealthRegen_T1,Suffix,HealthRegen,1,84,HealthRegen,Flat,23,30,0,0,180,Item.Armour.Helmet|Item.Armour.Body|Item.Jewellery.Belt|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.OffHand.Shield,Regenerate {0} Health per second
+ManaRegenInc_T6,Suffix,ManaRegenInc,6,1,ManaRegen,Increased,10,19,0,0,1000,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.Armour.Helmet,{0}% increased Mana Regeneration Rate
+ManaRegenInc_T5,Suffix,ManaRegenInc,5,10,ManaRegen,Increased,20,29,0,0,900,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.Armour.Helmet,{0}% increased Mana Regeneration Rate
+ManaRegenInc_T4,Suffix,ManaRegenInc,4,22,ManaRegen,Increased,30,39,0,0,750,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.Armour.Helmet,{0}% increased Mana Regeneration Rate
+ManaRegenInc_T3,Suffix,ManaRegenInc,3,35,ManaRegen,Increased,40,49,0,0,600,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.Armour.Helmet,{0}% increased Mana Regeneration Rate
+ManaRegenInc_T2,Suffix,ManaRegenInc,2,50,ManaRegen,Increased,50,59,0,0,450,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.Armour.Helmet,{0}% increased Mana Regeneration Rate
+ManaRegenInc_T1,Suffix,ManaRegenInc,1,68,ManaRegen,Increased,60,69,0,0,300,Item.Weapon.Caster|Item.OffHand.Focus|Item.Jewellery.Ring|Item.Jewellery.Amulet|Item.Armour.Helmet,{0}% increased Mana Regeneration Rate
+MovementSpeed_T5,Suffix,MovementSpeed,5,1,MovementSpeed,Increased,8,10,0,0,1000,Item.Armour.Boots,{0}% increased Movement Speed
+MovementSpeed_T4,Suffix,MovementSpeed,4,10,MovementSpeed,Increased,11,14,0,0,900,Item.Armour.Boots,{0}% increased Movement Speed
+MovementSpeed_T3,Suffix,MovementSpeed,3,22,MovementSpeed,Increased,15,19,0,0,750,Item.Armour.Boots,{0}% increased Movement Speed
+MovementSpeed_T2,Suffix,MovementSpeed,2,35,MovementSpeed,Increased,20,24,0,0,600,Item.Armour.Boots,{0}% increased Movement Speed
+MovementSpeed_T1,Suffix,MovementSpeed,1,50,MovementSpeed,Increased,25,29,0,0,450,Item.Armour.Boots,{0}% increased Movement Speed
+StaminaRegenInc_T5,Suffix,StaminaRegenInc,5,1,StaminaRegen,Increased,8,12,0,0,800,Item.Jewellery.Belt|Item.Armour.Boots|Item.Armour.Body|Item.Jewellery.Amulet,{0}% increased Stamina Regeneration Rate
+StaminaRegenInc_T4,Suffix,StaminaRegenInc,4,10,StaminaRegen,Increased,13,17,0,0,720,Item.Jewellery.Belt|Item.Armour.Boots|Item.Armour.Body|Item.Jewellery.Amulet,{0}% increased Stamina Regeneration Rate
+StaminaRegenInc_T3,Suffix,StaminaRegenInc,3,22,StaminaRegen,Increased,18,22,0,0,600,Item.Jewellery.Belt|Item.Armour.Boots|Item.Armour.Body|Item.Jewellery.Amulet,{0}% increased Stamina Regeneration Rate
+StaminaRegenInc_T2,Suffix,StaminaRegenInc,2,35,StaminaRegen,Increased,23,27,0,0,480,Item.Jewellery.Belt|Item.Armour.Boots|Item.Armour.Body|Item.Jewellery.Amulet,{0}% increased Stamina Regeneration Rate
+StaminaRegenInc_T1,Suffix,StaminaRegenInc,1,50,StaminaRegen,Increased,28,32,0,0,360,Item.Jewellery.Belt|Item.Armour.Boots|Item.Armour.Body|Item.Jewellery.Amulet,{0}% increased Stamina Regeneration Rate
+SkillDurationInc_T5,Suffix,SkillDurationInc,5,1,SkillDuration,Increased,6,9,0,0,700,Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Armour.Helmet,{0}% increased Skill Effect Duration
+SkillDurationInc_T4,Suffix,SkillDurationInc,4,10,SkillDuration,Increased,10,13,0,0,630,Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Armour.Helmet,{0}% increased Skill Effect Duration
+SkillDurationInc_T3,Suffix,SkillDurationInc,3,22,SkillDuration,Increased,14,17,0,0,525,Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Armour.Helmet,{0}% increased Skill Effect Duration
+SkillDurationInc_T2,Suffix,SkillDurationInc,2,35,SkillDuration,Increased,18,21,0,0,420,Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Armour.Helmet,{0}% increased Skill Effect Duration
+SkillDurationInc_T1,Suffix,SkillDurationInc,1,50,SkillDuration,Increased,22,25,0,0,315,Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Armour.Helmet,{0}% increased Skill Effect Duration
+CooldownRecovery_T5,Suffix,CooldownRecovery,5,1,CooldownRecovery,Increased,5,7,0,0,700,Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Armour.Helmet|Item.Jewellery.Belt,{0}% increased Cooldown Recovery Rate
+CooldownRecovery_T4,Suffix,CooldownRecovery,4,10,CooldownRecovery,Increased,8,10,0,0,630,Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Armour.Helmet|Item.Jewellery.Belt,{0}% increased Cooldown Recovery Rate
+CooldownRecovery_T3,Suffix,CooldownRecovery,3,22,CooldownRecovery,Increased,11,13,0,0,525,Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Armour.Helmet|Item.Jewellery.Belt,{0}% increased Cooldown Recovery Rate
+CooldownRecovery_T2,Suffix,CooldownRecovery,2,35,CooldownRecovery,Increased,14,16,0,0,420,Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Armour.Helmet|Item.Jewellery.Belt,{0}% increased Cooldown Recovery Rate
+CooldownRecovery_T1,Suffix,CooldownRecovery,1,50,CooldownRecovery,Increased,17,20,0,0,315,Item.OffHand.Focus|Item.Jewellery.Amulet|Item.Armour.Helmet|Item.Jewellery.Belt,{0}% increased Cooldown Recovery Rate
+ItemRarityInc_T5,Suffix,ItemRarityInc,5,1,ItemRarity,Increased,6,10,0,0,600,Item.Armour.Helmet|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Ring|Item.Jewellery.Amulet,{0}% increased Rarity of Items found
+ItemRarityInc_T4,Suffix,ItemRarityInc,4,10,ItemRarity,Increased,11,14,0,0,540,Item.Armour.Helmet|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Ring|Item.Jewellery.Amulet,{0}% increased Rarity of Items found
+ItemRarityInc_T3,Suffix,ItemRarityInc,3,22,ItemRarity,Increased,15,20,0,0,450,Item.Armour.Helmet|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Ring|Item.Jewellery.Amulet,{0}% increased Rarity of Items found
+ItemRarityInc_T2,Suffix,ItemRarityInc,2,35,ItemRarity,Increased,21,26,0,0,360,Item.Armour.Helmet|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Ring|Item.Jewellery.Amulet,{0}% increased Rarity of Items found
+ItemRarityInc_T1,Suffix,ItemRarityInc,1,50,ItemRarity,Increased,27,32,0,0,270,Item.Armour.Helmet|Item.Armour.Gloves|Item.Armour.Boots|Item.Jewellery.Ring|Item.Jewellery.Amulet,{0}% increased Rarity of Items found
+BlockChance_T4,Suffix,BlockChance,4,1,BlockChance,Flat,2,3,0,0,1000,Item.OffHand.Shield,+{0}% Chance to Block
+BlockChance_T3,Suffix,BlockChance,3,10,BlockChance,Flat,4,5,0,0,900,Item.OffHand.Shield,+{0}% Chance to Block
+BlockChance_T2,Suffix,BlockChance,2,22,BlockChance,Flat,6,7,0,0,750,Item.OffHand.Shield,+{0}% Chance to Block
+BlockChance_T1,Suffix,BlockChance,1,35,BlockChance,Flat,8,9,0,0,600,Item.OffHand.Shield,+{0}% Chance to Block
+HealthOnHit_T5,Suffix,HealthOnHit,5,1,HealthOnHit,Flat,1,2,0,0,800,Item.Weapon.Melee|Item.Weapon.Ranged|Item.Armour.Gloves|Item.Jewellery.Ring,Gain {0} Health per enemy hit with Attacks
+HealthOnHit_T4,Suffix,HealthOnHit,4,10,HealthOnHit,Flat,3,4,0,0,720,Item.Weapon.Melee|Item.Weapon.Ranged|Item.Armour.Gloves|Item.Jewellery.Ring,Gain {0} Health per enemy hit with Attacks
+HealthOnHit_T3,Suffix,HealthOnHit,3,22,HealthOnHit,Flat,5,7,0,0,600,Item.Weapon.Melee|Item.Weapon.Ranged|Item.Armour.Gloves|Item.Jewellery.Ring,Gain {0} Health per enemy hit with Attacks
+HealthOnHit_T2,Suffix,HealthOnHit,2,35,HealthOnHit,Flat,8,10,0,0,480,Item.Weapon.Melee|Item.Weapon.Ranged|Item.Armour.Gloves|Item.Jewellery.Ring,Gain {0} Health per enemy hit with Attacks
+HealthOnHit_T1,Suffix,HealthOnHit,1,50,HealthOnHit,Flat,11,14,0,0,360,Item.Weapon.Melee|Item.Weapon.Ranged|Item.Armour.Gloves|Item.Jewellery.Ring,Gain {0} Health per enemy hit with Attacks

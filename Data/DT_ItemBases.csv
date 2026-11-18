@@ -1,0 +1,22 @@
+Name,DisplayName,Slot,Handedness,ItemTags,RequiredLevel,ReqStrength,ReqDexterity,ReqIntelligence,PhysicalMin,PhysicalMax,AttacksPerSecond,CritChance,Armour,Evasion,EnergyShield,BlockChance,ImplicitText,ImplicitStat,ImplicitMin,ImplicitMax,InventoryWidth,InventoryHeight,bCanDrop,DropWeight
+RustedSword,Rusted Sword,MainHand,OneHand,Item.Weapon.Melee,1,8,0,0,4,9,1.45,5.0,0,0,0,0,,,0,0,1,3,true,600
+ArmingSword,Arming Sword,MainHand,OneHand,Item.Weapon.Melee,1,12,12,0,7,15,1.5,5.0,0,0,0,0,,,0,0,1,3,true,1000
+TwinStilettos,Twin Stilettos,MainHand,OneHand,Item.Weapon.Melee,1,0,12,0,3,10,1.55,6.5,0,0,0,0,{0}% increased Critical Strike Chance,CritChanceLocal,15,20,1,2,true,600
+Stiletto,Stiletto,MainHand,OneHand,Item.Weapon.Melee,4,0,18,8,4,14,1.55,6.5,0,0,0,0,{0}% increased Critical Strike Chance,CritChanceLocal,20,30,1,2,true,1000
+Wand,Wand,MainHand,OneHand,Item.Weapon.Caster,3,0,0,18,5,9,1.4,7.0,0,0,0,0,{0}% increased Spell Damage,SpellDamage,8,12,1,3,true,1000
+Greataxe,Greataxe,MainHand,TwoHand,Item.Weapon.Melee,8,30,0,0,18,40,1.2,5.0,0,0,0,0,,,0,0,2,4,true,1000
+OakStaff,Oak Staff,MainHand,TwoHand,Item.Weapon.Caster,1,8,0,14,8,17,1.3,6.0,0,0,0,0,{0}% increased Spell Damage,SpellDamage,18,26,2,4,true,1000
+ShortBow,Short Bow,MainHand,TwoHand,Item.Weapon.Ranged,4,0,26,0,6,17,1.4,5.0,0,0,0,0,,,0,0,2,3,true,1000
+KiteShield,Kite Shield,OffHand,OneHand,Item.OffHand.Shield|Item.Defence.Armour,1,10,0,0,0,0,0,0,24,0,0,24,+{0}% to all Elemental Resistances,AllElementalResist,4,8,2,2,true,1000
+ChronoFocus,Chrono Focus,OffHand,OneHand,Item.OffHand.Focus|Item.Defence.EnergyShield,1,0,8,12,0,0,0,0,0,0,8,0,{0}% increased Skill Effect Duration,SkillDuration,10,15,2,2,true,800
+IronHelm,Iron Helm,Helmet,None,Item.Armour.Helmet|Item.Defence.Armour,1,10,0,0,0,0,0,0,30,0,0,0,,,0,0,2,2,true,1000
+LeatherHood,Leather Hood,Helmet,None,Item.Armour.Helmet|Item.Defence.Evasion,1,0,10,0,0,0,0,0,0,30,0,0,,,0,0,2,2,true,1000
+MailHauberk,Mail Hauberk,Body,None,Item.Armour.Body|Item.Defence.Armour,1,14,0,0,0,0,0,0,60,0,0,0,,,0,0,2,3,true,1000
+LeatherJerkin,Leather Jerkin,Body,None,Item.Armour.Body|Item.Defence.Evasion,1,0,14,0,0,0,0,0,0,60,0,0,,,0,0,2,3,true,1000
+LinenRobe,Linen Robe,Body,None,Item.Armour.Body|Item.Defence.EnergyShield,1,0,0,14,0,0,0,0,0,0,18,0,,,0,0,2,3,true,1000
+Brigandine,Brigandine,Body,None,Item.Armour.Body|Item.Defence.Armour|Item.Defence.Evasion,1,8,8,0,0,0,0,0,35,35,0,0,,,0,0,2,3,true,800
+Gauntlets,Gauntlets,Gloves,None,Item.Armour.Gloves|Item.Defence.Armour|Item.Defence.Evasion,1,6,6,0,0,0,0,0,12,12,0,0,,,0,0,2,2,true,1000
+RidingBoots,Riding Boots,Boots,None,Item.Armour.Boots|Item.Defence.Armour|Item.Defence.Evasion,1,6,6,0,0,0,0,0,10,10,0,0,,,0,0,2,2,true,1000
+LeatherBelt,Leather Belt,Belt,None,Item.Jewellery.Belt,1,0,0,0,0,0,0,0,0,0,0,0,+{0} to maximum Health,MaxHealth,20,30,2,1,true,800
+BoneAmulet,Bone Amulet,Amulet,None,Item.Jewellery.Amulet,1,0,0,0,0,0,0,0,0,0,0,0,+{0} to all Attributes,AllAttributes,8,12,1,1,true,600
+IronRing,Iron Ring,Ring,None,Item.Jewellery.Ring,1,0,0,0,0,0,0,0,0,0,0,0,Adds 1 to {0} Physical Damage to Attacks,AttackPhysicalDamageMax,3,4,1,1,true,800
