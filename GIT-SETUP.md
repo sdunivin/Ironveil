@@ -2,7 +2,7 @@
 
 Git keeps every version of your project so you can undo any mistake, including changes Claude Code makes. Git LFS (Large File Storage) handles the big binary files: Unreal assets, Blender files, textures and sounds.
 
-The GitHub repository already exists and already contains `.gitignore`, `.gitattributes`, this guide and the README. You only need to bring your Unreal project into it.
+The GitHub repository already contains the Unreal project, `.gitignore`, `.gitattributes`, this guide and the README. You only need to clone it and open it.
 
 ## 1. Install the tools (once per computer)
 
@@ -20,22 +20,20 @@ The GitHub repository already exists and already contains `.gitignore`, `.gitatt
 2. Choose **ironveil** from your list.
 3. Set **Local path** to `C:\Users\YourName\Documents\Unreal Projects\ironveil` and click **Clone**.
 
-## 3. Create the Unreal project and move it in
+## 3. Open the Unreal project
 
-Unreal makes a new folder for every project it creates, so the simplest route is to create the project somewhere temporary, then copy it into the cloned folder.
+The repository already contains the Unreal project (`Ironveil.uproject`, `Config/` and `Source/`), so you don't need to create one.
 
-1. In Unreal, create the project as described in Phase 1.1 of the plan (Third Person, **C++**, no Starter Content). Name it `Ironveil` and put it in a temporary folder, for example `Documents\Unreal Projects\Temp`.
-2. Close Unreal.
-3. Open the temporary `Ironveil` folder. Copy everything **except** `Binaries`, `Intermediate`, `Saved` and `DerivedDataCache` into your cloned `ironveil` folder.
-4. Open `Ironveil.uproject` from the cloned folder and check the project loads. If Unreal asks to rebuild modules, click **Yes**.
-5. Close Unreal and delete the temporary folder.
+1. In File Explorer, open your cloned `ironveil` folder. Right-click `Ironveil.uproject` → **Generate Visual Studio project files** (on Windows 11, **Show more options** first).
+2. Double-click `Ironveil.uproject`. If Unreal asks to rebuild missing modules, click **Yes**.
+3. Continue with [Docs/PHASE1-EDITOR-SETUP.md](Docs/PHASE1-EDITOR-SETUP.md).
 
 > Windows hides files that start with a dot in some views. In File Explorer, turn on **View → Show → Hidden items** to see `.gitignore` and `.gitattributes`.
 
 ## 4. Commit and push
 
 1. In GitHub Desktop, you'll see your project files listed as changes.
-2. Type a summary: `Initial Unreal project`.
+2. Type a summary, e.g. `Phase 1 editor setup`.
 3. Click **Commit to main**, then **Push origin**.
 
 ## 5. Check that LFS is working

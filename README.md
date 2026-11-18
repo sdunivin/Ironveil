@@ -18,10 +18,11 @@ A realistic third-person action RPG about climbing the Veil Spire, a 100-floor p
 ## Repository layout
 
 ```
-Ironveil.uproject   Unreal project file (added in Phase 1)
+Ironveil.uproject   Unreal project file
 Config/             Unreal settings
 Content/_Game/      All of our game content
-Source/Ironveil/    C++ code
+Source/Ironveil/    C++ code (characters, movement, GAS, lock-on, grapple)
+Docs/               Setup guides
 Art/Source/         Blender and texture source files
 Art/Export/         FBX exports for Unreal
 Data/               Balance data (affixes, item bases, scaling) as CSV for Unreal DataTables
@@ -30,4 +31,10 @@ Tools/              Helper scripts, e.g. the loot simulator
 
 ## First-time setup
 
-See [GIT-SETUP.md](GIT-SETUP.md).
+1. [GIT-SETUP.md](GIT-SETUP.md): install Git, clone, open the project.
+2. [Docs/PHASE1-EDITOR-SETUP.md](Docs/PHASE1-EDITOR-SETUP.md): input, Blueprints and a test level for Phase 1.
+
+## Status
+
+- Phase 0: pitch and GDD drafted.
+- Phase 1: C++ foundation written (sprint, stamina, dodge with i-frames, lock-on, grapple, Gameplay Ability System base, co-op ready). Editor setup is next.
