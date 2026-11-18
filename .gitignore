@@ -1,0 +1,54 @@
+# Ironveil — .gitignore for Unreal Engine 5.8 + Blender
+# Put this file in your Unreal project's root folder (next to the .uproject file).
+
+# ---------------------------------------------------------------
+# Unreal Engine: generated folders (Unreal rebuilds these itself)
+# ---------------------------------------------------------------
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# The same generated folders inside plugins
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# Packaged game builds (package to this folder so it stays out of Git)
+Packaged/
+
+# ---------------------------------------------------------------
+# Code editors (Visual Studio, Rider, VS Code)
+# These are regenerated with "Generate Visual Studio project files".
+# ---------------------------------------------------------------
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.code-workspace
+
+# ---------------------------------------------------------------
+# Claude Code: personal settings stay on your machine
+# (the shared .claude/settings.json is still committed)
+# ---------------------------------------------------------------
+.claude/settings.local.json
+
+# ---------------------------------------------------------------
+# Blender autosave backups (.blend1, .blend2 ...)
+# ---------------------------------------------------------------
+*.blend[0-9]
+*.blend[0-9][0-9]
+
+# Export scratch folder for quick test exports
+Art/Export/_scratch/
+
+# ---------------------------------------------------------------
+# Operating system clutter
+# ---------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
