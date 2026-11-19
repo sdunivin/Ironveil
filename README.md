@@ -4,9 +4,13 @@ A realistic third-person action RPG about climbing the Veil Spire, a 100-floor p
 
 "Ironveil" is a working title.
 
+## Play the prototype
+
+A playable gray-box build of the climb lives in `Source/IronVeil`: Greyhollow hub, four classes, 100 procedurally generated floors across five biomes, guardians every 10 floors and the Hourless King at the top. Setup, controls and status: [PROTOTYPE.md](PROTOTYPE.md).
+
 ## Tools
 
-- Unreal Engine 5.8
+- Unreal Engine 5.3 (the current `IronVeil.uproject`; the plan targets 5.8, and the C++ sticks to APIs that exist in both)
 - Blender 5.2
 - Git + Git LFS (large binary files)
 
@@ -18,14 +22,14 @@ A realistic third-person action RPG about climbing the Veil Spire, a 100-floor p
 ## Repository layout
 
 ```
-Ironveil.uproject   Unreal project file (added in Phase 1)
+IronVeil.uproject   Unreal project file (C++ module IronVeil)
 Config/             Unreal settings
 Content/_Game/      All of our game content
-Source/Ironveil/    C++ code
+Source/IronVeil/    C++ code (the playable prototype; see PROTOTYPE.md)
 Art/Source/         Blender and texture source files
 Art/Export/         FBX exports for Unreal
 Data/               Balance data (affixes, item bases, scaling) as CSV for Unreal DataTables
-Tools/              Helper scripts, e.g. the loot simulator
+Tools/              Helper scripts: loot simulator, Blender blockout builders, Unreal content setup
 ```
 
 ## First-time setup

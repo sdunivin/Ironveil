@@ -1,9 +1,9 @@
 // ArpgLootRows.h
-// Row structures for the loot DataTables in Data/*.csv.
+// Row structures for the loot data in Data/*.csv.
 //
-// This file is parked outside the Source folder on purpose so it doesn't compile
-// before you need it. In Phase 3, move it to Source/Ironveil/Data/ArpgLootRows.h
-// (or ask Claude Code to), then compile and import the CSVs as DataTables.
+// UArpgLootSubsystem reads the CSV files straight from the project's Data folder at
+// startup and fills these structs, so balance edits need no reimport while you develop.
+// You can still import the CSVs as DataTables with these row structs.
 // Column names in the CSV files must match the UPROPERTY names below exactly.
 
 #pragma once

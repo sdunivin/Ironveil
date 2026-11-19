@@ -52,3 +52,6 @@ Art/Export/_scratch/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Python caches
+__pycache__/

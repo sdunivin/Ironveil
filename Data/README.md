@@ -5,9 +5,9 @@ Balance data for Ironveil, kept as CSV files so it can be edited in any spreadsh
 | File | Unreal asset | What it holds |
 | --- | --- | --- |
 | `DT_Affixes.csv` | DataTable, row struct `FArpgAffixRow` | 44 affix groups (22 prefixes, 22 suffixes), 278 tier rows, item levels 1 to 84+ |
-| `DT_ItemBases.csv` | DataTable, row struct `FArpgItemBaseRow` | The 18 item bases from the GDD plus 3 starter bases |
+| `DT_ItemBases.csv` | DataTable, row struct `FArpgItemBaseRow` | The 18 item bases from the GDD, 3 starter bases and War Wraps (the Monk's fist weapon) |
 | `CT_MonsterScaling.csv` | CurveTable (Linear) | Monster Health and damage multipliers and floor loot bonuses, levels 1 to 120 |
-| `Source/ArpgLootRows.h` | C++ header | The row structs above, parked here until Phase 3 |
+| `Source/IronVeil/Data/ArpgLootRows.h` | C++ header | The row structs above (moved into the game module) |
 
 ## How the affix table works
 
@@ -32,7 +32,9 @@ It checks that every base can roll a full rare, rolls thousands of items and rep
 
 ## Importing into Unreal (Phase 3)
 
-1. Move `Data/Source/ArpgLootRows.h` to `Source/Ironveil/Data/ArpgLootRows.h` and compile (or ask Claude Code to do it).
+The prototype reads these CSV files directly at startup (`UArpgLootSubsystem`), so while you develop, editing a CSV and pressing Play is enough. When you want DataTable assets (for packaged builds):
+
+1. The row structs are already compiled in `Source/IronVeil/Data/ArpgLootRows.h`.
 2. In the Content Browser, open `Content/_Game/Data`, click **Import**, choose `DT_Affixes.csv`.
 3. In the import dialog choose **DataTable** and row type **ArpgAffixRow**. Repeat for `DT_ItemBases.csv` with **ArpgItemBaseRow**.
 4. Import `CT_MonsterScaling.csv` as a **CurveTable** with **Linear** interpolation.

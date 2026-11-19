@@ -4,6 +4,7 @@ ArmingSword,Arming Sword,MainHand,OneHand,Item.Weapon.Melee,1,12,12,0,7,15,1.5,5
 TwinStilettos,Twin Stilettos,MainHand,OneHand,Item.Weapon.Melee,1,0,12,0,3,10,1.55,6.5,0,0,0,0,{0}% increased Critical Strike Chance,CritChanceLocal,15,20,1,2,true,600
 Stiletto,Stiletto,MainHand,OneHand,Item.Weapon.Melee,4,0,18,8,4,14,1.55,6.5,0,0,0,0,{0}% increased Critical Strike Chance,CritChanceLocal,20,30,1,2,true,1000
 Wand,Wand,MainHand,OneHand,Item.Weapon.Caster,3,0,0,18,5,9,1.4,7.0,0,0,0,0,{0}% increased Spell Damage,SpellDamage,8,12,1,3,true,1000
+WarWraps,War Wraps,MainHand,OneHand,Item.Weapon.Melee,1,10,10,0,5,10,1.7,6.0,0,0,0,0,{0}% increased Attack Speed,AttackSpeedLocal,6,10,1,2,true,700
 Greataxe,Greataxe,MainHand,TwoHand,Item.Weapon.Melee,8,30,0,0,18,40,1.2,5.0,0,0,0,0,,,0,0,2,4,true,1000
 OakStaff,Oak Staff,MainHand,TwoHand,Item.Weapon.Caster,1,8,0,14,8,17,1.3,6.0,0,0,0,0,{0}% increased Spell Damage,SpellDamage,18,26,2,4,true,1000
 ShortBow,Short Bow,MainHand,TwoHand,Item.Weapon.Ranged,4,0,26,0,6,17,1.4,5.0,0,0,0,0,,,0,0,2,3,true,1000
